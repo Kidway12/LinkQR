@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LinkQR/static/css/main.f855e6bc.css",
+    "main.js": "/LinkQR/static/js/main.916669f7.js",
+    "static/js/453.ed3810f9.chunk.js": "/LinkQR/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/LinkQR/index.html",
+    "main.f855e6bc.css.map": "/LinkQR/static/css/main.f855e6bc.css.map",
+    "main.916669f7.js.map": "/LinkQR/static/js/main.916669f7.js.map",
+    "453.ed3810f9.chunk.js.map": "/LinkQR/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.916669f7.js"
+  ]
+}
