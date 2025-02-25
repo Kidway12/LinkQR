@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "password": "1234",
+    "company": "CÔNG TY TNHH RAU THANH HẠNH",
+    "address": "159 Lê Hồng Phong, Liên Nghĩa, Đức Trọng Lâm Đồng",
+    "packingLocation": "Công ty TNHH RAU THANH HẠNH",
+    "packingAddress": "159 Lê Hồng Phong, Liên Nghĩa, Đức Trọng Lâm Đồng"
+  },
+  {
+    "username": "user2",
+    "password": "abcd",
+    "company": "CÔNG TY TNHH NÔNG NGHIỆP XANH",
+    "address": "456 Đường XYZ, Hà Nội",
+    "packingLocation": "Kho B",
+    "packingAddress": "Lô C, KCN Long An"
+  }
+]
